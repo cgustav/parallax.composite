@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+    margin: 0;
+    background-image: url(/images/city-skies.jpg);
+    background-size: auto 150vh;
+}
+
+h1 {
+    background: rgba(69, 130, 179, 0.68);
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+footer {
+    background-image: url(/images/workspace.jpg);
+    background-size: auto 120vh;
+    background-position: center 0;
+}
+
+footer,
+h1 {
+    line-height: 100vh;
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}
+
+footer p {
+    background: rgba(#000, .6);
+    margin: 0;
+}
+
+.page {
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #fff;
+}
+
+.page p {
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.page .btn {
+    background: tomato;
+    margin-top: 60px;
+    border: none;
+    height: 8vh;
+    width: 10%;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+    cursor: pointer;
+}
+
+/*
+footer {
+    background-image: url(/images/workspace.jpg);
+    background-size: auto 150vh;
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+footer p {
+    background: rgba(0, 0, 0, .6);
+    margin: 0;
+}
+
+footer h1 {
+    line-height: 100vh;
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}
+*/
+
+/*
+.page {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #fff;
+}
+
+/*ALOJ
+
+.section {
+    line-height: 100vh;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.section p {
+    margin: 0;
+    background: rgba(#000, .5);
+    color: #fff;
+    font-size: 2em;
+}
+
+.one {
+    background-image: url(/images/city-skies.jpg);
+    background-size: cover;
+}
+
+.two {
+    background-image: url(/images/workspace.jpg);
+    background-size: cover;
+}
+*/
